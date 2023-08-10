@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @akshay7895
 - 👀 I’m interested in VLSI front end RTL design and verification
-- 🌱 I’m currently learning VERILOG 
+- 🌱 I have knowledge of C, python, tsch scripting, verilog, system verilog.
+- 🌱 I have good exposure of computer architecture along with arm arhitecture.
+- 🌱 I’m currently learning UVM. 
 - 💞️ I’m looking to collaborate on learnig of VERILOG
 - 📫 How to reach me ...
 
