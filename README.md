@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @akshay7895
-- 👀 I’m interested in VLSI front end RTL design and verification
-- 🌱 I have knowledge of C, python, tsch scripting, verilog, system verilog.
+- 👀 I’m Design Verification engineer with experience in VIP developement and IP/SOC verification with developing FUll Chip TB ENV from scratch.
+- 🌱 I have knowledge of C, python, tsch scripting, verilog, system verilog, UVM.
 - 🌱 I have good exposure of computer architecture along with arm arhitecture.
-- 🌱 I’m currently learning UVM. 
-- 💞️ I’m looking to collaborate on learnig of VERILOG
 - 📫 How to reach me ...
 
 <!---
